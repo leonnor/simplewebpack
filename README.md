@@ -1,7 +1,7 @@
 # simplewebpack
 a simple demo of webpack
 
-# 一个简易的 webpack 需要支持一下特性：
+# 一个简易的 webpack 需要支持以下特性：
 
 - 支持将 es6 转换成 es5。
 
